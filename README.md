@@ -1,5 +1,5 @@
 # haplotypeHMM
-## Instalation
+## Installation
 ```
 git clone https://github.com/Tidesun/haplotypeHMM.git
 cd haplotypeHMM
